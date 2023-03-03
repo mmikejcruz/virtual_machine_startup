@@ -1,11 +1,11 @@
 # virtual_machine_startup
-Creating A Virtual Machine through Azure Networks 
+Creating A Virtual Machine through Azure Networks with MAC OS
 <p align="center">
 <img src="https://i.imgur.com/shXFZUv.png"/>
 </p>
 
 <h1>Azure Virtual Machine - Prerequisites and Installation</h1>
-This tutorial outlines the prerequisites and installation of the Azure Network Virtual Machine. Tutorial will also showcase how to connect to the virtual machine with a client computer.<br />
+This tutorial outlines the prerequisites and installation of the Azure Network Virtual Machine. Tutorial will also showcase how to connect to the virtual machine with a client computer on Mac Operating Systems with Microsoft Remote Desktop .<br />
 
 <h2>Environments and Technologies Used</h2>
 
