@@ -42,9 +42,17 @@ Under Resource Groups click create Resource Group. There you'll create a name an
 <br />
 
 <p>
-<img src="https://i.imgur.com/MUOz9dh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/E8X3bAL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Go to Virtual Machine and click Azure VirtuaL Machine. Pick the resource group you already made before. Create a name for your VM and choose the same region as your resource group. Under image you can choose the base Operating System or application for the VM, for example Windows 10 pro. Select a VM size to support the workload that you want to run. The size that you choose then determines factors such as processing power, memory, and storage capacity.
+Go to Virtual Machine and click Azure VirtuaL Machine. Pick the resource group you already made before. Create a name for your VM and choose the same region as your resource group. Under image you can choose the base Operating System or application for the VM, for example Windows 10 pro. Select a VM size to support the workload that you want to run. The size that you choose then determines factors such as processing power, memory, and storage capacity. Then create a username and password that will work as your log in for the VM. You can finally confirm licensing and review/ create.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/TuhZ53p.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
 </p>
 <br />
