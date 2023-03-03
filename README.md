@@ -53,6 +53,6 @@ Go to Virtual Machine and click Azure VirtuaL Machine. Pick the resource group y
 <img src="https://i.imgur.com/JTJ8FdZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-On Mac Operating system, search for remote desktop. Click Add PC and for the PC name copy and paste the public IP adress of the Virtual Machine. To find the Public IP adress, click on your Virtual Machine on Microsft Azure. The public IP adress should be towards the right or you can also click networking and find it there also. The final step is to log in with the username and password created when making the VM.
+On Mac Operating system, go to appstore and search for remote desktop. Download the application and run it. Click Add PC and for the PC name copy and paste the public IP adress of the Virtual Machine. To find the Public IP adress, click on your Virtual Machine on Microsft Azure. The public IP adress should be towards the right or you can also click networking and find it there also. The final step is to log in with the username and password created when making the VM.
 </p>
 <br />
