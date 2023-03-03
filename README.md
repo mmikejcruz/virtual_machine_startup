@@ -34,10 +34,10 @@ Microsoft Azure, often referred to as Azure, is a cloud computing platform opera
 <br />
 
 <p>
-<img src="https://i.imgur.com/aSslbBh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/TuhZ53p.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Install IIS URL REWRITE MODULE 2. This enables Web administrators to create powerful rules to implement URLs that are easier for users to remember and easier for search.
+Under Resource Groups click create Resource Group. There you'll create a name and and you'll chooose the Azure region that's right for you and your cutomers. Tags can be created also, at the end review and create.
 </p>
 <br />
 
