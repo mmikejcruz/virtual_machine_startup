@@ -4,14 +4,13 @@ Creating A Virtual Machine through Azure Networks
 <img src="https://i.imgur.com/shXFZUv.png"/>
 </p>
 
-<h1>osTicket - Prerequisites and Installation</h1>
-This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
+<h1>Azure Virtual Machine - Prerequisites and Installation</h1>
+This tutorial outlines the prerequisites and installation of the Azure Network Virtual Machine. Tutorial will also showcase how to connect to the virtual machine with a client computer.<br />
 
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
-- Internet Information Services (IIS)
 
 <h2>Operating Systems Used </h2>
 
@@ -19,11 +18,10 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Enabe IIS with CGI
-- Install Rewrite Module
-- Download PHP 7.3.8 and unzip content into directory
-- Install MySQL and launch configuration wizard with a typical setup
-- Register PHP from within IIS as an admin
+- Create a subsription with Microsoft Azure
+- Create a resource group
+- Create a virtal machine
+- Connect to virtual machine with remote desktop.
 
 <h2>Installation Steps</h2>
 
