@@ -26,7 +26,7 @@ This tutorial outlines the prerequisites and installation of the Azure Network V
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/2wxreep.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/IgAKwEY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Microsoft Azure, often referred to as Azure, is a cloud computing platform operated by Microsoft. Create a subsription by making an microsoft account,(or logging into exsiting one). 
