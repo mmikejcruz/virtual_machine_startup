@@ -10,7 +10,7 @@ This tutorial outlines the prerequisites and installation of the Azure Network V
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
-- Remote Desktop
+- Microsoft Remote Desktop
 
 <h2>Operating Systems Used </h2>
 
