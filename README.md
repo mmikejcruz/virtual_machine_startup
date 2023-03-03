@@ -45,6 +45,6 @@ Under Resource Groups click create Resource Group. There you'll create a name an
 <img src="https://i.imgur.com/MUOz9dh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Create the directory c://php and unzip all the content included in file PHP 7.3.8 there. Allows for PHP Manager to be registered within IIS as an admin. MySQL is installed to have a database for osTicket to store their application data.
+Go to Virtual Machine and click Azure VirtuaL Machine. Pick the resource group you already made before. Create a name for your VM and choose the same region as your resource group. Under image you can choose the base Operating System or application for the VM, for example Windows 10 pro. Select a VM size to support the workload that you want to run. The size that you choose then determines factors such as processing power, memory, and storage capacity.
 </p>
 <br />
